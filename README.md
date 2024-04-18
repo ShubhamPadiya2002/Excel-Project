@@ -28,8 +28,8 @@ from raw data alone.
 • Investigate About Data - Find Basic insights about data to getting comfortable with dataset.                                                                                         
 • Find Complex Answers   - Showcase the power of pivot table to solve complex answers.                                                                                            
 • Torture the Data       – Find Trends or pattern with the help of advance charts like Scatter plot.                                                                                              
-• Conclusion             – Discussion about outcomes which we get through this analysis for future – decision making                                                                                                   
-                           related to movies.                                                                                                                                  
+• Conclusion                          – Discussion about outcomes which we get through this analysis for future – decision making                                                                                                   
+                           related to movies.                                                                                                                                                      
 
 
 
