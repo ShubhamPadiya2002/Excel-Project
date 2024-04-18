@@ -23,12 +23,12 @@ from raw data alone.
 
 ❑ **Content**  
 
-• Overview of Data       - Understand the theoretical part of data for strong foundation.                                                                                                          
-• Limitation of Project  - Understand some limitation of the project.                                                                                                          
-• Investigate About Data - Find Basic insights about data to getting comfortable with dataset.                                                                                         
-• Find Complex Answers   - Showcase the power of pivot table to solve complex answers.                                                                                            
-• Torture the Data       – Find Trends or pattern with the help of advance charts like Scatter plot.                                                                                              
-• Conclusion             – Discussion about outcomes which we get through this analysis for future – decision making                                                                                                   
+-• Overview of Data       - Understand the theoretical part of data for strong foundation.                                                                                                          
+-• Limitation of Project  - Understand some limitation of the project.                                                                                                          
+-• Investigate About Data - Find Basic insights about data to getting comfortable with dataset.                                                                                         
+-• Find Complex Answers   - Showcase the power of pivot table to solve complex answers.                                                                                            
+-• Torture the Data       – Find Trends or pattern with the help of advance charts like Scatter plot.                                                                                              
+-• Conclusion             – Discussion about outcomes which we get through this analysis for future – decision making                                                                                                   
                            related to movies.                                                                                                                                                      
 
 ![Example Image](https://github.com/ShubhamPadiya2002/Excel-Project/blob/main/Screenshot%202024-04-18%20140225.jpg)
