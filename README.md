@@ -40,4 +40,30 @@ from raw data alone.
 • **Data Accuracy**     - The accuracy of the data could be a limitation. Since the data is user-generated, there may be errors or inaccuracies that could affect the results of the analysis. Users may submit 
                        incorrect information or make subjective judgments about movie ratings, which could introduce biases into the analysis.
 
+<table>
+  <tr>
+    <td><b>Overview of Data</b></td>
+    <td>Understand the theoretical part of data for strong foundation.</td>
+  </tr>
+  <tr>
+    <td><b>Limitation of Project</b></td>
+    <td>Understand some limitation of the project.</td>
+  </tr>
+  <tr>
+    <td><b>Investigate About Data</b></td>
+    <td>Find Basic insights about data to getting comfortable with dataset.</td>
+  </tr>
+  <tr>
+    <td><b>Find Complex Answers</b></td>
+    <td>Showcase the power of pivot table to solve complex answers.</td>
+  </tr>
+  <tr>
+    <td><b>Torture the Data</b></td>
+    <td>Find Trends or pattern with the help of advance charts like Scatter plot.</td>
+  </tr>
+  <tr>
+    <td><b>Conclusion</b></td>
+    <td>Discussion about outcomes which we get through this analysis for future decision making.</td>
+  </tr>
+</table>
 
