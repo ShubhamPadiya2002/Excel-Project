@@ -1,11 +1,11 @@
-# **IMDb - Data Analysis*
+# IMDb - Data Analysis
 
 ![265205400-d52850a6-6a9b-498a-a79d-2e8cd248a7b6](https://media.giphy.com/media/l0HU2lyoefjGXFIwE/giphy.gif)
 
 IMDb (Internet Movie Database) is a popular online database of information related to films, television programs,                                                                                      
 and video games, including cast, production crew, plot summaries, trivia, and user ratings.
                                                                                                  
-**How IMDb Platform Works ?**     
+***How IMDb Platform Works ?***    
 
 **1.User Ratings --** IMDb ratings are primarily based on the ratings submitted by registered users of the IMDb website or app. Users can rate movies on a scale from 1 to 10, with 10 being the highest rating. These ratings are aggregated to calculate the overall rating for each movie.                                                                                                                                               
                                                                                                                                                                                                                   **2.Weighted Average --** IMDb uses a weighted average formula to calculate the overall rating for a movie. The formula takes into account factors such as the number of ratings received and the distribution of those ratings.                                                                                                                                                                                           
