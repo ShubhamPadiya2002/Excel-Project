@@ -23,23 +23,6 @@ from raw data alone.
 
 ❑ **Content**  
 
-- Overview of Data       - Understand the theoretical part of data for strong foundation.                                                                                                          
-- Limitation of Project  - Understand some limitation of the project.                                                                                                          
-- Investigate About Data - Find Basic insights about data to getting comfortable with dataset.                                                                                         
-- Find Complex Answers   - Showcase the power of pivot table to solve complex answers.                                                                                            
-- Torture the Data       – Find Trends or pattern with the help of advance charts like Scatter plot.                                                                                              
-- Conclusion             – Discussion about outcomes which we get through this analysis for future – decision making related to movies.                                                                                                                                                      
-
-![Example Image](https://github.com/ShubhamPadiya2002/Excel-Project/blob/main/Screenshot%202024-04-18%20140225.jpg)
-
-## Limitation of the Project
-
-• **Data Scope**        - The analysis might be limited to the data available in the IMDb database, which may not cover all movies or have complete information for each title.                          
-• **Limitations Depth** - The project uses tools like Excel and pivot tables, which are powerful but may not offer the same depth of analysis as more advanced statistical software.                       
-• **Timeframe**         - The project seems to cover data up to a certain point, which means recent movies or trends might not be included.                                                  
-• **Data Accuracy**     - The accuracy of the data could be a limitation. Since the data is user-generated, there may be errors or inaccuracies that could affect the results of the analysis. Users may submit 
-                       incorrect information or make subjective judgments about movie ratings, which could introduce biases into the analysis.
-
 <table>
   <tr>
     <td><b>Overview of Data</b></td>
@@ -66,4 +49,17 @@ from raw data alone.
     <td>Discussion about outcomes which we get through this analysis for future decision making.</td>
   </tr>
 </table>
+                                                                                                                                                      
+
+![Example Image](https://github.com/ShubhamPadiya2002/Excel-Project/blob/main/Screenshot%202024-04-18%20140225.jpg)
+
+## Limitation of the Project
+
+• **Data Scope**        - The analysis might be limited to the data available in the IMDb database, which may not cover all movies or have complete information for each title.                          
+• **Limitations Depth** - The project uses tools like Excel and pivot tables, which are powerful but may not offer the same depth of analysis as more advanced statistical software.                       
+• **Timeframe**         - The project seems to cover data up to a certain point, which means recent movies or trends might not be included.                                                  
+• **Data Accuracy**     - The accuracy of the data could be a limitation. Since the data is user-generated, there may be errors or inaccuracies that could affect the results of the analysis. Users may submit 
+                       incorrect information or make subjective judgments about movie ratings, which could introduce biases into the analysis.
+
+
 
