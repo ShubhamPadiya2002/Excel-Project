@@ -33,8 +33,12 @@ from raw data alone.
 
 ![Example Image](https://github.com/ShubhamPadiya2002/Excel-Project/blob/main/Screenshot%202024-04-18%20140225.jpg)
 
+## Limitation of the Project
 
-
-
+• Data Scope        - The analysis might be limited to the data available in the IMDb database, which may not cover all movies or have complete information for each title.                          
+• Limitations Depth - The project uses tools like Excel and pivot tables, which are powerful but may not offer the same depth of analysis as more advanced statistical software.                       
+• Timeframe         - The project seems to cover data up to a certain point, which means recent movies or trends might not be included.                                                  
+• Data Accuracy     - The accuracy of the data could be a limitation. Since the data is user-generated, there may be errors or inaccuracies that could affect the results of the analysis. Users may submit 
+                       incorrect information or make subjective judgments about movie ratings, which could introduce biases into the analysis.
 
 
