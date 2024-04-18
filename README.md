@@ -3,7 +3,7 @@
 ![265205400-d52850a6-6a9b-498a-a79d-2e8cd248a7b6](https://media.giphy.com/media/l0HU2lyoefjGXFIwE/giphy.gif)
 
 ## Project Summary
-Purpose of the Project -- Firstly , find the meaningful insights from the data. Secondly , understand 
+❑ Purpose of the Project -- Firstly , find the meaningful insights from the data. Secondly , understand 
 the Trend or pattern between different types of variable in a dataset. My main purpose is to 
 visualize the data to uncover trends and relationships which would have been difficult to identify 
 from raw data alone.                                                                                                                                                        
