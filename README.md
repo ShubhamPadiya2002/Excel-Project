@@ -31,7 +31,7 @@ from raw data alone.
 • Conclusion             – Discussion about outcomes which we get through this analysis for future – decision making                                                                                                   
                            related to movies.                                                                                                                                                      
 
-![Example Image]("C:\Users\hp\OneDrive\Desktop\Screenshot 2024-04-18 140225.jpg")
+![Example Image](https://github.com/ShubhamPadiya2002/Excel-Project/blob/main/Screenshot%202024-04-18%20140225.jpg)
 
 
 
