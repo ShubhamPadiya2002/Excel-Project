@@ -5,7 +5,8 @@
 IMDb (Internet Movie Database) is a popular online database of information related to films, television programs,                                                                                      
 and video games, including cast, production crew, plot summaries, trivia, and user ratings.
                                                                                                  
-**How IMDb Platform Works ?**                                                                                                        
+**How IMDb Platform Works ?**     
+
 1.**User Ratings:** IMDb ratings are primarily based on the ratings submitted by registered users of the IMDb website or app. Users                                                         
 can rate movies on a scale from 1 to 10, with 10 being the highest rating. These ratings are aggregated to calculate the overall                                                           
 rating for each movie.                                                                                                                                           
