@@ -6,8 +6,10 @@
 Purpose of the Project -- Firstly , find the meaningful insights from the data. Secondly , understand 
 the Trend or pattern between different types of variable in a dataset. My main purpose is to 
 visualize the data to uncover trends and relationships which would have been difficult to identify 
-from raw data alone. 
-❑ Tools & Techniques – Advance Excel , Pivot table . 
+from raw data alone.                                                                                                                                                        
+
+❑ Tools & Techniques – Advance Excel , Pivot table .
+
 ❑ Content
 • Overview of Data - Understand the theoretical part of data for strong foundation.
 • Limitation of Project - Understand some limitation of the project.
