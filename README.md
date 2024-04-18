@@ -18,5 +18,5 @@ from raw data alone.
 • Find Complex Answers   - Showcase the power of pivot table to solve complex answers.                                                                                            
 • Torture the Data       – Find Trends or pattern with the help of advance charts like Scatter plot.                                                                                              
 • Conclusion             – Discussion about outcomes which we get through this analysis for future – decision making                                                                                                   
-                                                                                                                                                        related to movies.                                                                                                                                  
+                                                                                                                                                                                                                                                 related to movies.                                                                                                                                  
 
