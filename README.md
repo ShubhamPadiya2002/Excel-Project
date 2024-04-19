@@ -67,7 +67,7 @@ from raw data alone.
 • With the help of this analysis , We find insights related to some important movies terms like contribution of genre(%) ,gross revenue ,budget ,director, actors.                                                
 • In this analysis, we also discover some time patterns like which month movies release the most. This analysis help director to decide release month.                                                         
 • Through this analysis, We understand the power of pivot table that how pivot table solve complex questions easily.                                                                                
-• Through cost analysis, We understand the very important concept of profit margin & cost. As a producer , we must should focus on cost or budget of a movie because profit margin is inversely proportional to Cost.
+• Through cost analysis, We understand the very important concept of profit margin & cost. As a producer , we must should focus on cost or budget of a movie because profit margin is inversely proportional to Cost.                                                                                                                                      
 • With the help of analysis of time duration, the director decide how many mins of movie should he make for get best IMDb range.                                                                 
 
 
