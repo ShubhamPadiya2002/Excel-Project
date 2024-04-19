@@ -1,6 +1,6 @@
 # IMDb - Data Analysis
 
-<img src="https://media.giphy.com/media/l0HU2lyoefjGXFIwE/giphy.gif" alt="Example GIF" width="700" height="200">
+<img src="https://media.giphy.com/media/l0HU2lyoefjGXFIwE/giphy.gif" alt="Example GIF" width="700" height="400">
 
 
 IMDb (Internet Movie Database) is a popular online database of information related to films, television programs,                                                                                      
